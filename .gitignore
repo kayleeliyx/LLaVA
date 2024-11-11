@@ -10,7 +10,9 @@ dist
 *.json
 *.jsonl
 
+
 # Data
+*.jpg
 !**/alpaca-data-conversation.json
 
 # Editor
